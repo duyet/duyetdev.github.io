@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96a370b3-d15e-4ee5-948e-800bc666b6a6/deploy-status)](https://app.netlify.com/sites/duyet/deploys)
+
+
 # Get started building your personal website
 
 ### Showcase your software development skills
